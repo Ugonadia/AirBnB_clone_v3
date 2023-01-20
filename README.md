@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Ugo Ozoeze - [Github](https://github.com/ugonadia) / [Twitter](https://twitter.com/_justugo)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Kidanemriam  Fekadu- [Github](https://github.com/kidanemariamFikadu) / [Twitter](https://twitter.com/itskidan_)
 
 Second part of Airbnb: Joann Vuong
 ## License
