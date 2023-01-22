@@ -29,4 +29,3 @@ def count():
         count = storage.count(cls)
         total[classes.get(cls)] = count
     return jsonify(total)
-Give feedback

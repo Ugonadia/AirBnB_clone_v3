@@ -36,6 +36,3 @@ if __name__ == '__main__':
         port = os.environ.get('HBNB_API_PORT')
     except:
         port = '5000'
-
-    app.run(host=host, port=port)
-Give feedback
